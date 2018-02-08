@@ -1,0 +1,4 @@
+file 'hello.rb' do
+content 'welcome to yammi'
+end
+
